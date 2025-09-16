@@ -19,7 +19,6 @@ Other cool stuff:
 - [elvish](https://github.com/silly-internet-tricks/elvish)
 - [elvish-test](https://github.com/silly-internet-tricks/elvish-test)
 - [elvish-test-runner](https://github.com/silly-internet-tricks/elvish-test-runner)
-- [cairo-test-runner](https://github.com/silly-internet-tricks/cairo-test-runner)
 
 ## 📺 Find Me Online
 - [Twitch](https://www.twitch.tv/sillyinternettricks) – for live coding, shenanigans, and more
