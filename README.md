@@ -24,9 +24,6 @@ Other cool stuff:
 - [Twitch](https://www.twitch.tv/sillyinternettricks) – for live coding, shenanigans, and more
 - [YouTube](https://www.youtube.com/channel/UCxY5gm7lh9R_HZYMASkdpcQ) – script showcases, tutorials, and internet randomness
 
-## 🤓 Fun Fact
-- I have a soft spot for egirls. Seriously, they make the internet a better place. 💖
-
 ## 🛠️ Skills & Interests
 - Tampermonkey Userscripting
 - Linux x86 Programming
